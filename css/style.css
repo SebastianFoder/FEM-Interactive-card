@@ -360,4 +360,8 @@ div.top div.front::before{
         justify-content: center;
         gap: 3rem;
     }
+
+    #inputs.completed{
+        display: none;
+    }
 }
